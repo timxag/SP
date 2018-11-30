@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1520100248 source:c:\users\timxa\desktop\严\lab05\lab05\baselexer.cpp
+	"baselexer.h"
+
+1517077186 c:\users\timxa\desktop\严\lab05\lab05\baselexer.h
+	<iostream>
+	<fstream>
+	<string>
+	"fsm.h"
+
+1425041040 c:\users\timxa\desktop\严\lab05\lab05\fsm.h
+	<vector>
+	<map>
+	<set>
+
+1484575764 source:c:\users\timxa\desktop\严\lab05\lab05\testlex.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"lexer.h"
+	"baselexer.cpp"
+
+1517152392 c:\users\timxa\desktop\严\lab05\lab05\lexer.h
+	"baselexer.h"
+
+1520100248 c:\users\timxa\desktop\严\lab05\lab05\baselexer.cpp
+	"baselexer.h"
+
+1543560405 source:c:\users\timxa\desktop\严\严\curs\2\coin.cpp
+	"mlisp.h"
+
+1505219778 c:\users\timxa\desktop\严\严\curs\2\mlisp.h
+	<iostream>
+	<cmath>
+	<limits>
+

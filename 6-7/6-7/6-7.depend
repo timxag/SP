@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\basegramma.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\baselexer.cpp
+	"baselexer.h"
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\baselexer.h
+	<iostream>
+	<fstream>
+	<string>
+	"fsm.h"
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\fsm.h
+	<vector>
+	<map>
+	<set>
+	<algorithm>
+
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\kngramma.h
+	"basegramma.h"
+
+1543422675 source:c:\users\timxa\desktop\严\严\6-7\bldmatr17.cpp
+	<iostream>
+	<iomanip>
+	"kngramma.h"
+	"precmat.h"
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\precmat.h
+	<iostream>
+	<string>
+	<map>
+	"basegramma.h"
+
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\precmat.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"precmat.h"
+
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\pars.cpp
+	<iostream>
+	<iomanip>
+	"parser.h"
+	"basegramma.h"
+	"kngramma.h"
+	"precmat.h"
+	"baselexer.h"
+	"parser.h"
+
+1526237888 c:\users\timxa\desktop\严\严\6-7\parser.h
+	"lexer.h"
+	"kngramma.h"
+	"precmat.h"
+
+1543422938 c:\users\timxa\desktop\严\严\6-7\lexer.h
+	"baselexer.h"
+	"fsm.h"
+
+1526237888 source:c:\users\timxa\desktop\严\严\6-7\parser.cpp
+	<sstream>
+	"parser.h"
+	<iostream>
+	<iomanip>
+
+1514140574 source:c:\users\timxa\desktop\严\严\6-7\6-7\main.cpp
+	<iostream>
+
