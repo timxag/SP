@@ -1,0 +1,10 @@
+/*
+int tCG::p24() { //    SUB -> HSUB E1 )
+	if (S1->count == 1) { 
+	S1->obj += "-" + S2->obj + ")"; 
+	} else { 
+	S1->obj += S2->obj + ")"; 
+	} 
+    return 0;
+}
+*/

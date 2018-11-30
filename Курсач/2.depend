@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1543503169 source:d:\Загрузки\curs1\curs1\base-compiler.cpp
+	<bits/stdc++.h>
+	"base-compiler.h"
+
+1484322776 d:\Загрузки\curs1\curs1\base-compiler.h
+	<iostream>
+	<string>
+	<vector>
+	"lexer.h"
+	"kngramma.h"
+	"precmat.h"
+
+1521050200 d:\Загрузки\curs1\curs1\lexer.h
+	"baselexer.h"
+
+1517077186 d:\Загрузки\curs1\curs1\baselexer.h
+	<iostream>
+	<fstream>
+	<string>
+	"fsm.h"
+
+1425041040 d:\Загрузки\curs1\curs1\fsm.h
+	<vector>
+	<map>
+	<set>
+
+1483561232 d:\Загрузки\curs1\curs1\kngramma.h
+	"basegramma.h"
+
+1483976712 d:\Загрузки\curs1\curs1\basegramma.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1484231942 d:\Загрузки\curs1\curs1\precmat.h
+	<iostream>
+	<string>
+	<map>
+	"basegramma.h"
+
+1543506715 source:d:\Загрузки\curs1\curs1\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1520100248 source:d:\Загрузки\curs1\curs1\baselexer.cpp
+	"baselexer.h"
+
+1483567550 source:d:\Загрузки\curs1\curs1\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1484241344 source:d:\Загрузки\curs1\curs1\mlispgen.cpp
+	<iostream>
+	<iomanip>
+	"code-gen.h"
+	"basegramma.cpp"
+	"kngramma.cpp"
+	"precmat.cpp"
+	"baselexer.cpp"
+	"base-compiler.cpp"
+	"code-gen.cpp"
+
+1484576258 d:\Загрузки\curs1\curs1\code-gen.h
+	<string>
+	"base-compiler.h"
+
+1543506715 d:\Загрузки\curs1\curs1\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1483567550 d:\Загрузки\curs1\curs1\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1484232196 d:\Загрузки\curs1\curs1\precmat.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"precmat.h"
+
+1520100248 d:\Загрузки\curs1\curs1\baselexer.cpp
+	"baselexer.h"
+
+1543503169 d:\Загрузки\curs1\curs1\base-compiler.cpp
+	<bits/stdc++.h>
+	"base-compiler.h"
+
+1523859462 d:\Загрузки\curs1\curs1\code-gen.cpp
+	"code-gen.h"
+
+1484232196 source:d:\Загрузки\curs1\curs1\precmat.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"precmat.h"
+
+1538474824 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\basegramma.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1538474824 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\baselexer.cpp
+	"baselexer.h"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\baselexer.h
+	<iostream>
+	<fstream>
+	<string>
+	"fsm.h"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\fsm.h
+	<vector>
+	<map>
+	<set>
+
+1538474824 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\kngramma.h
+	"basegramma.h"
+
+1543508253 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\base-compiler.cpp
+	<sstream>
+	<iomanip>
+	"base-compiler.h"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\base-compiler.h
+	<iostream>
+	<string>
+	<vector>
+	"lexer.h"
+	"kngramma.h"
+	"precmat.h"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\lexer.h
+	"baselexer.h"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\precmat.h
+	<iostream>
+	<string>
+	<map>
+	"basegramma.h"
+
+1538474824 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\make-code-gen.cpp
+	<iostream>
+	<iomanip>
+	"kngramma.h"
+	"basegramma.cpp"
+	"kngramma.cpp"
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1538474824 d:\Загрузки\mai-master (1)\mai-master\sp\cur1\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1538474824 source:d:\Загрузки\mai-master (1)\mai-master\sp\cur1\precmat.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"precmat.h"
+
+1543508962 source:d:\Загрузки\curs1\curs1\make-code-gen.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"basegramma.h"
+	"kngramma.h"
+
+1543503169 source:c:\users\timxa\desktop\СП\СП\curs\2\base-compiler.cpp
+	<bits/stdc++.h>
+	"base-compiler.h"
+
+1484322776 c:\users\timxa\desktop\СП\СП\curs\2\base-compiler.h
+	<iostream>
+	<string>
+	<vector>
+	"lexer.h"
+	"kngramma.h"
+	"precmat.h"
+
+1543560378 c:\users\timxa\desktop\СП\СП\curs\2\lexer.h
+	"baselexer.h"
+
+1517077186 c:\users\timxa\desktop\СП\СП\curs\2\baselexer.h
+	<iostream>
+	<fstream>
+	<string>
+	"fsm.h"
+
+1425041040 c:\users\timxa\desktop\СП\СП\curs\2\fsm.h
+	<vector>
+	<map>
+	<set>
+
+1483561232 c:\users\timxa\desktop\СП\СП\curs\2\kngramma.h
+	"basegramma.h"
+
+1483976712 c:\users\timxa\desktop\СП\СП\curs\2\basegramma.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1484231942 c:\users\timxa\desktop\СП\СП\curs\2\precmat.h
+	<iostream>
+	<string>
+	<map>
+	"basegramma.h"
+
+1543506715 source:c:\users\timxa\desktop\СП\СП\curs\2\basegramma.cpp
+	"basegramma.h"
+	<iomanip>
+
+1520100248 source:c:\users\timxa\desktop\СП\СП\curs\2\baselexer.cpp
+	"baselexer.h"
+
+1483567550 source:c:\users\timxa\desktop\СП\СП\curs\2\kngramma.cpp
+	"kngramma.h"
+	<utility>
+	<cstring>
+	<vector>
+	<fstream>
+	<algorithm>
+
+1543508962 source:c:\users\timxa\desktop\СП\СП\curs\2\make-code-gen.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"basegramma.h"
+	"kngramma.h"
+
+1484232196 source:c:\users\timxa\desktop\СП\СП\curs\2\precmat.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"precmat.h"
+
+1543535406 source:c:\users\timxa\desktop\СП\СП\curs\2\code-gen.cpp
+	"code-gen.h"
+
+1543509781 c:\users\timxa\desktop\СП\СП\curs\2\code-gen.h
+	<string>
+	"base-compiler.h"
+
+1543509453 source:c:\users\timxa\desktop\СП\СП\curs\2\mlispgen.cpp
+	<iostream>
+	<iomanip>
+	"basegramma.h"
+	"kngramma.h"
+	"precmat.h"
+	"baselexer.h"
+	"base-compiler.h"
+	"code-gen.h"
+
+1543513173 source:c:\users\timxa\desktop\СП\СП\curs\2\code-gen1.cpp
+	"code-gen.h"
+
+1514140574 source:c:\users\timxa\desktop\СП\СП\curs\2\main.cpp
+	<iostream>
+
